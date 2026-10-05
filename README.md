@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/masud-github-readme-banner.png" alt="banner" />
+<img src="./masud-github-readme-banner.png" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="center">Aspiring Full-Stack Developer | React • Next.js • TypeScript</h3>
