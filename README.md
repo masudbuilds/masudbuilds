@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/masudranaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="masudranaofficial" height="30" width="40" /></a>
+<a href="https://github.com/masudbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="masudbuilds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iammasudrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammasudrn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudranaofficial&" alt="masudranaofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudbuilds&" alt="masudbuilds" /></p>
 
